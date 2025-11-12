@@ -1,5 +1,5 @@
-https://jheison10.github.io/VERSIONES/E-TREASURY/INSTALLERTREASURY.msi
-https:jheison10.github.io/VERSIONES/E-TREASURY/INSTALLERTREASURY.msi
-https://jheison10.github.io/VERSIONES/E-TREASURY/VERSION.txt
-https://jheison10.github.io/VERSIONES/E-TREASURY/VERSION.txt
+https://jheison10.github.io/VERSIONES/RF-REPLIK/INSTALLRFREPLIK.msi
+https://jheison10.github.io/VERSIONES/RF-REPLIK/INSTALLRFREPLIK.msi
+https://jheison10.github.io/VERSIONES/RF-REPLIK/VERSION.txt
+https://jheison10.github.io/VERSIONES/RF-REPLIK/VERSION.txt
 
