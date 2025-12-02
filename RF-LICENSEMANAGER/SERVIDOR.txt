@@ -1,5 +1,5 @@
-https://jheison10.github.io/VERSIONES/RF-SERIALIMPORT/INSTALLERSERIALIMPORT.msi
-https:jheison10.github.io/VERSIONES/RF-SERIALIMPORT/INSTALLERSERIALIMPORT.msi
-https://jheison10.github.io/VERSIONES/RF-SERIALIMPORT/VERSION.txt
-https://jheison10.github.io/VERSIONES/RF-SERIALIMPORT/VERSION.txt
-
+SERVER=rafelzone.database.windows.net
+DATABASE=Rafelzone
+USER=Rafelzone
+PASSWORD=Bustamante.10
+VERSION=1.0
