@@ -1,5 +1,36 @@
+# ============================================================================
+# CONFIGURACIÓN DEL SERVIDOR DE LICENCIAS - RF-LICENSEMANAGER
+# ============================================================================
+# 
+# Este archivo contiene las credenciales para conectar al servidor de 
+# licencias Azure SQL. Las aplicaciones lo descargan automáticamente.
+#
+# URL de publicación:
+# https://jheison10.github.io/VERSIONES/RF-LICENSEMANAGER/SERVIDOR.txt
+#
+# FORMATO: CLAVE=VALOR (sin espacios, sin comillas)
+# Las líneas que empiezan con # son comentarios
+#
+# ============================================================================
+
 SERVER=rafelzone.database.windows.net
 DATABASE=Rafelzone
 USER=Rafelzone
 PASSWORD=Bustamante.10
 VERSION=1.0
+
+# ============================================================================
+# NOTAS:
+# ============================================================================
+#
+# 1. Este archivo se lee cada vez que una app valida su licencia
+# 2. Si no se puede descargar, las apps usan CONEX.RFLIC local
+# 3. E-TREASURY crea CONEX.RFLIC automáticamente desde este archivo
+# 4. Puedes cambiar credenciales sin recompilar las aplicaciones
+#
+# SEGURIDAD:
+# - Usa un usuario con permisos limitados (solo lectura en LICENCIAS)
+# - Configura el firewall de Azure SQL
+# - Rota la contraseña periódicamente
+#
+# ============================================================================
